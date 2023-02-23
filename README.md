@@ -9,7 +9,7 @@
 <details>
   <summary>Listing of projects</summary>
 
-> There are my projects that I'm working or worked recently
+  > Thereare some projects, I am working on
 
 * Personal projects
   * 🔗 Que (antinuke discord bot)-> [private]
