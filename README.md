@@ -1,7 +1,7 @@
 
 <img src="https://www.linkpicture.com/q/quebanner_1_2.png">
 
-### Windows 11 x Windows 98
+###  Windows 98 x Windows 11
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
