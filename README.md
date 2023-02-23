@@ -24,7 +24,7 @@
 <details>
    <summary>GitHub Stats</summary>
   
-  ![Skils](https://github-readme-stats.vercel.app/api?username=notknownuser13545689&theme=tokyonight&show_icons=true)
+  ![Skils](https://github-readme-stats.vercel.app/api?username=dsmsavds&theme=tokyonight&show_icons=true)
 </details>
 
 
