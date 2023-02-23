@@ -7,7 +7,7 @@
 
 ## Projects
 <details>
-  <summary>Listingof projects</summary>
+  <summary>Listing of projects</summary>
 
 > There are my projects that I'm working or worked recently
 
