@@ -18,3 +18,5 @@
   
   ![Skils](https://github-readme-stats.vercel.app/api?username=notknownuser13545689&theme=tokyonight&show_icons=true)
 </details>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
