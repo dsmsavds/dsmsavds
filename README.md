@@ -1,16 +1,20 @@
-### Hi there 👋
+### Windows 11 x Windows 98
 
-<!--
-**dsmsavds/dsmsavds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My projects
+<details>
+  <summary>My Projects</summary>
 
-Here are some ideas to get you started:
+> There are some projects, that i am workingn on...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* List of my projects
+  * 💙 Que bot (antinuke discord bot) -> [private]
+  * 💠 Que bot's website ([click](https://www.quebot.gq)) -> [soon]
+</details>
+<hr>
+
+## Info
+<details>
+   <summary>GitHub Stats</summary>
+  
+  ![Skils](https://github-readme-stats.vercel.app/api?username=notknownuser13545689&theme=tokyonight&show_icons=true)
+</details>
