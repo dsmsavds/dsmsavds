@@ -1,13 +1,15 @@
 ### Windows 11 x Windows 98
 
-## My projects
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=E5D3FF)
+![Html](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=E5D3FF)
+
+## Projects
 <details>
-  <summary>My Projects</summary>
-
 > There are some projects, that i am workingn on...
-
-* List of my projects
-  * 💙 Que bot (antinuke discord bot) -> [private]
+  ![Python](https://img.shields.io/badge/-Que-090909?style=for-the-badge&logo=Quebot&logoColor=E5D3FF)
+  * 💙  -> [private]
   * 💠 Que bot's website ([click](https://www.quebot.gq)) -> [soon]
 </details>
 <hr>
@@ -20,7 +22,4 @@
 </details>
 
 
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=E5D3FF)
-![Html](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=E5D3FF)
+
