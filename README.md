@@ -1,5 +1,5 @@
 
-<img src="https://images-ext-2.discordapp.net/external/y1jJ-hud4mjMqwz_eBgn-4Nvi1tGDla1v087G5CImAQ/https/www.linkpicture.com/q/quebanner_1.png">
+<img src="https://ibb.co/5khyDXF">
 
 ### Windows 11 x Windows 98
 
