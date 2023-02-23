@@ -19,5 +19,7 @@
   ![Skils](https://github-readme-stats.vercel.app/api?username=notknownuser13545689&theme=tokyonight&show_icons=true)
 </details>
 
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
+
