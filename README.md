@@ -12,9 +12,8 @@
 > There are my projects that I'm working or worked recently
 
 * Personal projects
-  [Que](https://img.shields.io/badge/-Que-090909?style=for-the-badge&logo=Quebot&logoColor=E5D3FF)
-  * 💙  -> [private]
-  * 💠 Que bot's website ([click](https://www.quebot.gq)) -> [soon]
+  * 🔗 Que (antinuke discord bot)-> [private]
+  * 🔗 Que bot's website ([click](https://www.quebot.gq)) -> [soon]
 </details>
 <hr>
 
