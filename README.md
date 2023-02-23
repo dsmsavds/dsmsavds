@@ -1,5 +1,5 @@
 
-<img src="[https://ibb.co/5khyDXF](https://www.linkpicture.com/view.php?img=LPic63f72437c721d1229478115)">
+<img src="https://www.linkpicture.com/view.php?img=LPic63f72437c721d1229478115">
 
 ### Windows 11 x Windows 98
 
