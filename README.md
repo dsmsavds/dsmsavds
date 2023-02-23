@@ -1,5 +1,5 @@
 
-<img src="https://www.linkpicture.com/view.php?img=LPic63f72437c721d1229478115">
+<img src="https://www.linkpicture.com/q/quebanner_1_2.png">
 
 ### Windows 11 x Windows 98
 
