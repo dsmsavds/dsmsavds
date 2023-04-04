@@ -16,7 +16,7 @@
 
 * Personal projects
   * 🔗 Que (antinuke discord bot)-> [private]
-  * 🔗 Que bot's website ([click](https://www.quebot.gq)) -> [soon]
+  * 🔗 Que bot's website ([click](https://www.quebot.gq)) -> [code](https://github.com/dsmsavds/que-rewrite-site)
 </details>
 <hr>
 
